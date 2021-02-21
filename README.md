@@ -6,4 +6,11 @@ The biggest problem for customers is waiting in the queue. Because they want to 
 There are many transactions such as money transfer, cargo sending, receiving cargo in PTT.
 In order to provide better services, the queue problem will be tried to be solved in this project.
 
-Ezgi Doğruer / İsra Nur Alperen / Elif Gökpınar / İnsaf Özge Berktaş
+<h2>Group</h2>
+
+<ul>
+  <li>Ezgi Doğruer</li>
+  <li>İsra Nur Alperen</li>
+  <li>Elif Gökpınar</li>
+  <li>İnsaf Özge Bektaş</li>
+
