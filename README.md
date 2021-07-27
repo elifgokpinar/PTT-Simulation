@@ -12,5 +12,5 @@ In order to provide better services, the queue problem will be tried to be solve
   <li>Ezgi Doğruer</li>
   <li>İsra Nur Alperen</li>
   <li>Elif Gökpınar</li>
-  <li>İnsaf Özge Bektaş</li>
+  <li>İnsaf Özge Berktaş</li>
 
